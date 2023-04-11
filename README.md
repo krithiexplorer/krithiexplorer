@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krithiexplorer
 - 👀 I’m interested in Full Stack web development and Machine Learning
 - 🌱 My tech stack knowledge
-- Front End - HTML,CSS,Bootstrap,React
+- Front End - HTML,CSS,Jaavascript,Bootstrap,React
 - Backend - Python-Django framework
 <!---
 krithiexplorer/krithiexplorer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
